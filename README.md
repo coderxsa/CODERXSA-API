@@ -8,7 +8,7 @@
 
 Find the detailed API docs and examples here:
 
-👉 [https://coderxsa.com/api-docs](https://coderxsa.com/api-docs)
+👉 [https://coderxsa.com/api-docs](https://coderxsa.github.io/CODERXSA-API)
 
 ---
 
