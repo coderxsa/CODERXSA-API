@@ -1,170 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>CODERXSA-API SERVICE</title>
-<style>
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  max-width: 800px;
-  margin: 40px auto;
-  padding: 0 20px;
-  color: #ddd; /* light text */
-  background: #121212; /* very dark grey / almost black */
-}
+# 🚀 CODERXSA-API SERVICE
 
-h1, h2 {
-  border-bottom: 3px solid #4caf50;
-  padding-bottom: 6px;
-  color: #81c784; /* lighter green */
-}
+> **Reliable. Fast. Simple. User-Friendly. Free. Public.**
 
-h1 {
-  font-size: 2.2rem;
-  margin-bottom: 0.2rem;
-}
+---
 
-h2 {
-  font-size: 1.5rem;
-  margin-top: 2rem;
-}
+### 📚 Documentation
 
-p {
-  margin: 1rem 0;
-  color: #ccc;
-}
+Find the detailed API docs and examples here:
 
-ul {
-  list-style: none;
-  padding-left: 0;
-}
+👉 [https://coderxsa.com/api-docs](https://coderxsa.com/api-docs)
 
-ul li {
-  margin: 0.6rem 0;
-  padding-left: 25px;
-  position: relative;
-  font-weight: 600;
-  color: #eee;
-}
+---
 
-ul li::before {
-  content: "✔";
-  position: absolute;
-  left: 0;
-  color: #4caf50;
-}
 
-code {
-  background: #333;
-  padding: 0.2em 0.5em;
-  border-radius: 4px;
-  font-family: monospace;
-  color: #a5d6a7;
-}
-
-a {
-  color: #81c784;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.section-divider {
-  border-top: 1.5px solid #333;
-  margin: 2rem 0;
-}
-
-.emoji {
-  font-size: 1.3rem;
-  margin-right: 0.3rem;
-}
-
-</style>
-</head>
-<body>
-
-<header>
-  <h1>CODERXSA-API SERVICE</h1>
-  <p><em>Reliable. Fast. Simple. User-Friendly. Free. Public.</em></p>
-</header>
-
-<section>
-  <h2><span class="emoji">🚀</span>What is CODERXSA-API SERVICE?</h2>
-  <p>
-    CODERXSA-API SERVICE is a <strong>free and public REST API</strong> designed to give you quick, reliable, and easy access to various data endpoints.
-    Built with speed and simplicity in mind, it is perfect for developers, hobbyists, and anyone who needs fast API responses.
-  </p>
-</section>
-
-<div class="section-divider"></div>
-
-<section>
-  <h2><span class="emoji">✨</span>Features</h2>
-  <ul>
-    <li><strong>Reliable:</strong> Stable uptime and consistent performance</li>
-    <li><strong>Fast:</strong> Optimized for low-latency responses</li>
-    <li><strong>Simple:</strong> Easy to use endpoints with clear documentation</li>
-    <li><strong>User-Friendly:</strong> Clean and straightforward JSON responses</li>
-    <li><strong>Free & Public:</strong> No hidden fees or API keys required</li>
-  </ul>
-</section>
-
-<div class="section-divider"></div>
-
-<section>
-  <h2><span class="emoji">⚙️</span>How to Use</h2>
-  <ol>
-    <li>Pick your endpoint URL</li>
-    <li>Send a GET or POST request as described in the docs</li>
-    <li>Receive JSON data instantly</li>
-    <li>Integrate into your app, website, or bot</li>
-  </ol>
-</section>
-
-<div class="section-divider"></div>
-
-<section>
-  <h2><span class="emoji">📚</span>Documentation</h2>
-  <p>
-    Detailed API documentation and examples can be found here:<br />
-    👉 <a href="https://coderxsa-api.onrender.com/api.html" target="_blank" rel="noopener noreferrer">api-docs</a>
-  </p>
-</section>
-
-<div class="section-divider"></div>
-
-<section>
-  <h2><span class="emoji">🤝</span>Contributing</h2>
-  <p>
-    Contributions and feedback are welcome!<br />
-    Check out our GitHub repo and open issues or pull requests:<br />
-    <a href="https://github.com/coderxsa/coderxsa-api" target="_blank" rel="noopener noreferrer">https://github.com/coderxsa/coderxsa-api</a>
-  </p>
-</section>
-
-<div class="section-divider"></div>
-
-<section>
-  <h2><span class="emoji">📫</span>Contact</h2>
-  <p>
-    Reach out to us for support or questions:<br />
-    Channel: <a href="https://whatsapp.com/channel/0029VayIXEaISTkIAQEeFL2q" target="_blank" rel="noopener noreferrer">https://whatsapp.com/channel/0029VayIXEaISTkIAQEeFL2q</a><br />
-    Group: <a href="https://chat.whatsapp.com/BZQgmNtnlmnEVwKqSoh95t" target="_blank" rel="noopener noreferrer">https://chat.whatsapp.com/BZQgmNtnlmnEVwKqSoh95t</a><br />
-    TikTok: <a href="https://www.tiktok.com/@coderxsa" target="_blank" rel="noopener noreferrer">@coderxsa</a>
-  </p>
-</section>
-
-<div class="section-divider"></div>
-
-<footer>
-  <p><strong>⚡ Stay Awesome with CODERXSA API ⚡</strong></p>
-  <p>Thank you for using CODERXSA-API!<br />Build something amazing. 🚀🚀🚀</p>
-</footer>
-
-</body>
-</html>
+⚡ **Stay Awesome with CODERXSA API!**  
+Thank you for using CODERXSA-API! Build something amazing. 🚀🚀🚀
